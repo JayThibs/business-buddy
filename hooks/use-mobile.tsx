@@ -1,9 +1,3 @@
-/*
-<ai_context>
-Hook to check if the user is on a mobile device.
-</ai_context>
-*/
-
 import * as React from "react"
 
 const MOBILE_BREAKPOINT = 768
